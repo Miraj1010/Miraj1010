@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Miraj1010
 - 👀 I’m interested in contributing to open source.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Java projects.
+- 🌱 I’m currently learning Java and kubernetes.
+- 💞️ I’m looking to collaborate on Java and kubernetes projects.
 - 📫 How to reach me by email - i.am.mirajul.islam@gmail.com
 
 <!---
